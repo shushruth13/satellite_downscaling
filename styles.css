@@ -1,0 +1,100 @@
+.stApp {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.upload-box {
+    border: 2px dashed #4CAF50;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+}
+
+.metrics-container {
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 5px;
+    margin: 10px 0;
+}
+
+/* Main container styles */
+.main {
+    padding: 2rem;
+}
+
+/* Header styles */
+h1,
+h2,
+h3 {
+    color: #1E3A8A;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Metric card styles */
+.metric-card {
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 1.5rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 1rem 0;
+}
+
+/* Tab styles */
+.stTabs [data-baseweb="tab-list"] {
+    gap: 2rem;
+}
+
+.stTabs [data-baseweb="tab"] {
+    height: 50px;
+    white-space: pre-wrap;
+    background-color: #f0f2f6;
+    border-radius: 4px 4px 0 0;
+    gap: 1rem;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.stTabs [aria-selected="true"] {
+    background-color: #1E3A8A;
+    color: white;
+}
+
+/* Sidebar styles */
+.sidebar .sidebar-content {
+    background-color: #f8f9fa;
+}
+
+/* Info box styles */
+.stInfo {
+    background-color: #e8f4fd;
+    border-left: 4px solid #1E3A8A;
+}
+
+/* Warning box styles */
+.stWarning {
+    background-color: #fff3cd;
+    border-left: 4px solid #ffc107;
+}
+
+/* Success box styles */
+.stSuccess {
+    background-color: #d4edda;
+    border-left: 4px solid #28a745;
+}
+
+/* Chart container styles */
+.chart-container {
+    background-color: white;
+    border-radius: 10px;
+    padding: 1rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 1rem 0;
+}
+
+/* Footer styles */
+footer {
+    text-align: center;
+    padding: 1rem;
+    color: #666;
+    font-size: 0.9rem;
+}
