@@ -1,4 +1,4 @@
-# gdg-hackathon - Enhanced NO2 Air Quality Analysis Dashboard
+
 Downscaling of Satellite based air quality map using AI/ML
 
 ## 🌟 Enhanced Features 
@@ -18,12 +18,6 @@ Our solution offers a comprehensive approach to NO2 air quality analysis with th
 
 7. **Correlation Analysis**: Identifies the relationship between NO2 levels and factors like population density, traffic, and green cover.
 
-## 🔧 Setup Instructions
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/gdg-hackathon.git
-cd gdg-hackathon
 
 # Install dependencies
 pip install -r requirements.txt
